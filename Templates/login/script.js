@@ -93,7 +93,7 @@ function setCadastro(){
         rightDiv.innerHTML = ""
         rightDiv.innerHTML = `<div class="box-right-div">
         <h1 class="bem-vindo">
-            Bem-Vindo
+            Faça Login
         </h1>
 
         <div class="area-cadastro">
